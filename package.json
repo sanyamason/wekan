@@ -20,7 +20,7 @@
     "sinon": "^11.1.2"
   },
   "dependencies": {
-    "@babel/core": "^7.15.0",
+    "@babel/core": "^7.22.6",
     "@babel/runtime": "^7.15.3",
     "@wekanteam/markdown-it-mermaid": "^0.5.0",
     "ajv": "^6.12.6",
